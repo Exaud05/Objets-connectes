@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "objets-connectes-projet": {
+      "hosting": {
+        "objets_project": [
+          "objets-connectes-projet"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "objets-connectes-projet"
+  }
+}

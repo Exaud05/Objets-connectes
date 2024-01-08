@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "objets_project",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
